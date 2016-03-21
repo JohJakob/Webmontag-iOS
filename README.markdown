@@ -1,3 +1,5 @@
+<!-- twitter: @JohJakob -->
+
 # Webmontag-iOS
 
 _The source code published here is intended for learning purposes. Not only Webmontag Halle members may use it to learn more about developing apps, but also other interested people. **Please note** that the **comments in the source code** and the **rest of this document** are in **German only**._
